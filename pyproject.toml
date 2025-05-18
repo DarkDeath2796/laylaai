@@ -1,0 +1,12 @@
+[project]
+name = "ai-assistant"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "discord-py>=2.5.2",
+    "flask>=3.1.0",
+    "groq>=0.24.0",
+    "requests>=2.32.3",
+    "windows-curses>=2.4.1",
+]
